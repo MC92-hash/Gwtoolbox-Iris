@@ -25,11 +25,29 @@ You do not need to install or run GW Observer.
 
 ## Installation
 
-1. Close Guild Wars.
-2. Download `Iris.dll` from this repository.
-3. Put it in your GWToolbox++ plugins folder: `Documents\GWToolboxpp\<your computer name>\plugins\`.
-4. Start Guild Wars with GWToolbox++ and observe a match.
-5. Tick **Iris** under Auto Camera / Hide UI to open the IRIS Options window.
+Installing Iris has two parts: copy the file once, then load it once in GWToolbox++. After that it starts
+by itself every time.
+
+1. Make sure GWToolbox++ is up to date.
+2. Close Guild Wars.
+3. Download `Iris.dll` from the [latest release](https://github.com/MC92-hash/Gwtoolbox-Iris/releases/latest).
+4. Put it in the `plugins` folder of your GWToolbox++ settings folder:
+   `Documents\GWToolboxpp\<your computer name>\plugins\`.
+5. Start Guild Wars with GWToolbox++. Open the GWToolbox++ **Settings**, go to **Plugins**, and click **Load**
+   next to `Iris.dll`. GWToolbox++ remembers this: you only do it once.
+
+## Using Iris
+
+1. Open the **Observe** window in Guild Wars. Matches with an **Eye of Janthir** icon on the right have
+   recording data, and Iris can show its HUD for them. Matches without the icon have no recording yet.
+
+   ![Matches with the Eye of Janthir have Iris data (green); the others do not (red)](iris-observe-list.png)
+
+2. Watch one of those matches. In the top-right corner, under GW's own **Auto Camera** and **Hide UI**, tick
+   **Iris** to open the IRIS Options window, where you choose which panels to show. Untick it, or close the
+   window, to hide the options again; Iris keeps running.
+
+   ![The Iris toggle under Auto Camera and Hide UI](iris-toggle.png)
 
 ## A note about accuracy
 
