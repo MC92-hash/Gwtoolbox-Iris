@@ -36,7 +36,10 @@ You do not need to install or run GW Observer.
 Energy values and effects shown by Iris are calculated from match events, rather than directly recorded. They may
 contain errors or differ from the actual game state. Treat them as a guide, rather than exact values.
 
-Plugins are not supported by the GWToolbox++ developers, and are not permitted by ArenaNet. Use at your own risk.
+## Disclaimer
+
+> [!WARNING]
+> Plugins are not supported by ArenaNet, nor by the GWToolbox++ developers. Use Iris at your own risk.
 
 ---
 
