@@ -34,7 +34,9 @@ by itself every time.
 4. Put it in the `plugins` folder of your GWToolbox++ settings folder:
    `Documents\GWToolboxpp\<your computer name>\plugins\`.
 5. Start Guild Wars with GWToolbox++. Open the GWToolbox++ **Settings**, go to **Plugins**, and click **Load**
-   next to `Iris.dll`. GWToolbox++ remembers this: you only do it once.
+   next to `Iris.dll`. GWToolbox++ remembers this: you only do it once. Once loaded, the button reads **Unload**:
+
+   ![GWToolbox++ Settings, Plugins: Iris.dll loaded](iris-plugins-loaded.png)
 
 ## Using Iris
 
